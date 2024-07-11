@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Came across 42 school by chance, and amazingly passed the Piscine, and am now doing the common core.
+I have enjoyed reading some of the tutorials on Github and Gitbook, and hope one day I can also contribute something to the community.
+
 <!--
 **wrobbot/wrobbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
